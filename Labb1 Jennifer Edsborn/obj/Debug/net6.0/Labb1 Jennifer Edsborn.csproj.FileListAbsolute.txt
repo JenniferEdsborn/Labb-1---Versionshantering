@@ -1,0 +1,15 @@
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\bin\Debug\net6.0\Labb1 Jennifer Edsborn.exe
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\bin\Debug\net6.0\Labb1 Jennifer Edsborn.deps.json
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\bin\Debug\net6.0\Labb1 Jennifer Edsborn.runtimeconfig.json
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\bin\Debug\net6.0\Labb1 Jennifer Edsborn.dll
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\bin\Debug\net6.0\Labb1 Jennifer Edsborn.pdb
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\obj\Debug\net6.0\Labb1 Jennifer Edsborn.csproj.AssemblyReference.cache
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\obj\Debug\net6.0\Labb1 Jennifer Edsborn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\obj\Debug\net6.0\Labb1 Jennifer Edsborn.AssemblyInfoInputs.cache
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\obj\Debug\net6.0\Labb1 Jennifer Edsborn.AssemblyInfo.cs
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\obj\Debug\net6.0\Labb1 Jennifer Edsborn.csproj.CoreCompileInputs.cache
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\obj\Debug\net6.0\Labb1 Jennifer Edsborn.dll
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\obj\Debug\net6.0\refint\Labb1 Jennifer Edsborn.dll
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\obj\Debug\net6.0\Labb1 Jennifer Edsborn.pdb
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\obj\Debug\net6.0\Labb1 Jennifer Edsborn.genruntimeconfig.cache
+E:\Visual Code 2020\Labb1 Jennifer Edsborn\obj\Debug\net6.0\ref\Labb1 Jennifer Edsborn.dll
